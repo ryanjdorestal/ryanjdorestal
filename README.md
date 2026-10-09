@@ -1,5 +1,5 @@
 - 👋 I’m @ryanjdorestal  
-- 👀 Exploring intersections of AI, real-world systems, and Web3  
+- 👀 Exploring intersections of AI/ML, real-world systems, and Blockchain  
 - 🌱 Rebuilding core coding fluency, mostly frontend + Python  
 - 💻 Open to smart collabs, not noise  
 - 📫 DM me here or on LinkedIn  
